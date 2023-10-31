@@ -1,5 +1,5 @@
 # webtech
-if you want to refresh then use this in 3 sec <head> <meta http-equiv="refresh" content="3"></head>
+if you want to refresh then use this in 3 sec  <meta http-equiv="refresh" content="3">
 
 
 
